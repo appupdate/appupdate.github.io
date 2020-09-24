@@ -1,7 +1,7 @@
 <Root>
-  <Server Version="2.5.13.0" Hash="cc54c624162769f0387bb0a63cfb28a1">
-    <ConfigUrl>NLcnzLc12rB8WSur5j3Ald3a9w4S9UQ0Tc6IQPaGUnk=</ConfigUrl>
-    <LatestUrl>NLcnzLc12rB8WSur5j3AlbRNL8NdL+3xQV2FG/F1D9U=</LatestUrl>
+  <Server Version="2.5.13.0" Hash="93202b31477db4bd3cdf21e3a7257b71">
+    <ConfigUrl>http://tiny.cc/advres_config</ConfigUrl>
+    <LatestUrl>http://tiny.cc/advres_latest</LatestUrl>
   </Server>
   <Client AutoUpdate="true">
     <KillProcess>AdvRes.exe|AutoApiTools.exe</KillProcess>
