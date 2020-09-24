@@ -1,0 +1,10 @@
+<Root>
+  <Server Version="2.5.13.0" Hash="cc54c624162769f0387bb0a63cfb28a1">
+    <ConfigUrl>NLcnzLc12rB8WSur5j3Ald3a9w4S9UQ0Tc6IQPaGUnk=</ConfigUrl>
+    <LatestUrl>NLcnzLc12rB8WSur5j3AlbRNL8NdL+3xQV2FG/F1D9U=</LatestUrl>
+  </Server>
+  <Client AutoUpdate="true">
+    <KillProcess>AdvRes.exe|AutoApiTools.exe</KillProcess>
+    <BackupFiles>data.db|update.xml</BackupFiles>
+  </Client>
+</Root>
