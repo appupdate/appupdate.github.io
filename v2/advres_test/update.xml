@@ -1,10 +1,10 @@
 <Root>
-  <Server Version="2.7.61.0" Hash="e68cec4572c991ff4bf6833b4d13937d">
+  <Server Version="2.7.62.0" Hash="8b5140c734bbccfe90ff3f80aef36e1c">
     <ConfigUrl>http://bit.ly/advres_config</ConfigUrl>
     <LatestUrl>http://bit.ly/advres_latest</LatestUrl>
   </Server>
   <Client AutoUpdate="true">
     <KillProcess>AdvRes.exe|AutoApiTools.exe</KillProcess>
-    <BackupFiles>data.db|update.xml</BackupFiles>
+    <BackupFiles>update.xml</BackupFiles>
   </Client>
 </Root>
