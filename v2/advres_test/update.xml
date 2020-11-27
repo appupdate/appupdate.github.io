@@ -1,7 +1,7 @@
 <Root>
-  <Server Version="2.7.67.0" Hash="b99797e34a8fe0998b9ae636a61da973">
-    <ConfigUrl>http://bit.ly/advres_test_config</ConfigUrl>
-    <LatestUrl>http://bit.ly/advres_test_latest</LatestUrl>
+  <Server Version="2.7.68.0" Hash="446ad71a8a619ea178160dc340bd046a">
+    <ConfigUrl>http://bit.ly/advres_config</ConfigUrl>
+    <LatestUrl>http://bit.ly/advres_latest</LatestUrl>
   </Server>
   <Client AutoUpdate="true">
     <KillProcess>AdvRes.exe|AutoApiTools.exe</KillProcess>
