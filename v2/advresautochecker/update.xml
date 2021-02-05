@@ -1,7 +1,7 @@
 <Root>
-  <Server Version="1.4.0.0" Hash="3c674c412ce3a0b93ded234f74a62dce">
-    <ConfigUrl>http://bit.ly/advresautochecker_config</ConfigUrl>
-    <LatestUrl>http://bit.ly/advresautochecker_latest</LatestUrl>
+  <Server Version="1.4.0.0" Hash="bb41d7a356f3b484f6d0c7056f01f5a9">
+    <ConfigUrl>http://bit.ly/advresautochecker_config1</ConfigUrl>
+    <LatestUrl>http://bit.ly/advresautochecker_latest1</LatestUrl>
   </Server>
   <Client AutoUpdate="true">
     <KillProcess>AdvResAutoChecker.exe</KillProcess>
