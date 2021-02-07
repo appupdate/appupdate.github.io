@@ -1,5 +1,5 @@
 <Root>
-  <Server Version="2.8.25.0" Hash="1412dbdf6ac2cc07ce468875da58ae59">
+  <Server Version="2.8.26.0" Hash="e0feace0918b4514cea6bef51d3e1f4f">
     <ConfigUrl>http://bit.ly/advres_config</ConfigUrl>
     <LatestUrl>http://bit.ly/advres_latest</LatestUrl>
   </Server>
