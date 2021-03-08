@@ -1,5 +1,5 @@
 <Root>
-  <Server Version="1.9.0.0" Hash="341d140541e11a80cfc6a18ed72bfc82">
+  <Server Version="1.10.0.0" Hash="ae4770ccae00bf4b8a83faa4cd2b8c42">
     <ConfigUrl>http://bit.ly/advresautochecker_config1</ConfigUrl>
     <LatestUrl>http://bit.ly/advresautochecker_latest1</LatestUrl>
   </Server>
